@@ -1,0 +1,28 @@
+name: fmm
+favicon: null
+layout_spectrum: 0.6682178147602826
+typography_spectrum: 0.12290031043812633
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9678421821445227
+  lightness: 0.08935201750136912
+  saturation: 0.07026059716008604
+  rhythmicContrast: 0.6584963384084404
+purpose: []
