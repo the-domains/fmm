@@ -1,6 +1,6 @@
 name: fmm
 favicon: null
-layout_spectrum: 0.22157
+layout_spectrum: 1
 typography_spectrum: 0.83863
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.875
-  lightness: 0.08935201750136912
-  saturation: 0.07026059716008604
+  brandStrength: 0.1875
+  lightness: 0.625
+  saturation: 0.5
   rhythmicContrast: 0.6584963384084404
 purpose: []
